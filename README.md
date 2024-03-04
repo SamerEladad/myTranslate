@@ -1,5 +1,7 @@
 # MyTranslate
 
+![myTranslate Logo](https://github.com/SamerEladad/myTranslate/blob/main/assets/images/banner_myTranslate.jpg)
+
 ## Overview
 MyTranslate is a web application designed for the translation of scientific texts, aimed at supporting students and teachers. Developed as part of the Information and Communication Systems course at Hochschule Bochum, this project bridges the gap in translating complex academic materials.
 
